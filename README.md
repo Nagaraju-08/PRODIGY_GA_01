@@ -74,7 +74,7 @@ PRODIGY_GA_01/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/PRODIGY_GA_01.git
+git clone https://github.com/Nagaraju-08/PRODIGY_GA_01.git
 ```
 
 ### 2. Navigate to the project
@@ -161,7 +161,7 @@ http://localhost:8501
 
 ## 👨‍💻 Author
 
-**Kartheek Lagisetti**
+**Nagaraju Muchamari**
 
 ---
 
